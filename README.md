@@ -1,5 +1,7 @@
 # Hospital-Room-Emergency-Dashboard
 
+![Screenshot 2025-06-04 172253](https://github.com/user-attachments/assets/9e7cfd9e-34bd-450f-8e5a-36a00bbe74c1)
+
 ## Project Objective
 
 To create a hospital emergency room analysis dashboard in Excel to improve efficiency and provide useful insights. This dashboard will help stakeholders analyze, monitor and make better decisions for managing patients and improving service
