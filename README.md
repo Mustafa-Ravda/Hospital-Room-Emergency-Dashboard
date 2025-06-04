@@ -10,17 +10,17 @@ To create a hospital emergency room analysis dashboard in Excel to improve effic
 
 **Number of patients:**
 
-Count the total number of patients vising the ER each day
+Count the total number of patients visting the ER each day.
 Show a daily trend with an area sparkline to spot patterns like busy days or seasonal trends
 
 **Average wait time:**
 
-Find the average time patients wait to see a medical professional
+Find the average time patients wait to see a medical professional.
 Use an area sparkline to track daily changes and highlight days with longer wait times that might need improvements 
 
 **Patient satisfaction score:**
 
-Check the average daily satisfaction score of patients to assess service quality
+Check the average daily satisfaction score of patients to assess service quality.
 Use an area sparkline to show trends, spot drops in satisfaction, and link them to challenges
 
 # Tools Used: 
@@ -39,7 +39,7 @@ A total of 9,216 patients visited the emergency room during the period.
 
 **Admission Breakdown:**
 
-**Almost evenly split between admitted (50.04%) and not admitted (49.96%) cases.**
+Almost evenly split between admitted (50.04%) and not admitted (49.96%) cases.
 
 **Gender Distribution:**
 
@@ -61,5 +61,5 @@ A large number of patients (4,000) were not assigned to any department, which co
 
 Average wait time: 35.26 minutes — a key area to monitor for service improvement.
 
-Patient satisfaction score: Very high at 4.99 out of 5, suggesting positive patient experience despite delays.
+Patient satisfaction score: Very low at 4.99 out of 10, suggesting a negative patient likely due to delays.
 
