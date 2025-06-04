@@ -37,10 +37,6 @@ A total of 9,216 patients visited the emergency room during the period.
 
 59% of patients were attended on time, while 41% faced delays — indicating room for process improvements.
 
-**Admission Breakdown:**
-
-Almost evenly split between admitted (50.04%) and not admitted (49.96%) cases.
-
 **Gender Distribution:**
 
 51% male and 49% female patients — a nearly balanced gender ratio.
